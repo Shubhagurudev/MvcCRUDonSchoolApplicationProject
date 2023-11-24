@@ -1,0 +1,12 @@
+C:\Users\shubh\source\repos\FinalMvcCrudSchool\prolib\bin\Debug\prolib.dll.config
+C:\Users\shubh\source\repos\FinalMvcCrudSchool\prolib\bin\Debug\prolib.dll
+C:\Users\shubh\source\repos\FinalMvcCrudSchool\prolib\bin\Debug\prolib.pdb
+C:\Users\shubh\source\repos\FinalMvcCrudSchool\prolib\bin\Debug\EntityFramework.dll
+C:\Users\shubh\source\repos\FinalMvcCrudSchool\prolib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shubh\source\repos\FinalMvcCrudSchool\prolib\bin\Debug\EntityFramework.xml
+C:\Users\shubh\source\repos\FinalMvcCrudSchool\prolib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shubh\source\repos\FinalMvcCrudSchool\prolib\obj\Debug\prolib.csproj.AssemblyReference.cache
+C:\Users\shubh\source\repos\FinalMvcCrudSchool\prolib\obj\Debug\prolib.csproj.CoreCompileInputs.cache
+C:\Users\shubh\source\repos\FinalMvcCrudSchool\prolib\obj\Debug\prolib.csproj.CopyComplete
+C:\Users\shubh\source\repos\FinalMvcCrudSchool\prolib\obj\Debug\prolib.dll
+C:\Users\shubh\source\repos\FinalMvcCrudSchool\prolib\obj\Debug\prolib.pdb
